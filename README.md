@@ -1,1 +1,1 @@
-# netflixclone
+# netflixclone project
